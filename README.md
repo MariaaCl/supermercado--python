@@ -16,7 +16,9 @@ Possui um conjunto de produtos pré-definidos no estoque, cada um com um identif
 
 **Sair do Sistema:** Opção para encerrar o programa.
 
-**Funcionalidades**Visualizar Estoque:
+**FUNCIONALIDADES**
+
+**Visualizar Estoque:**
 
 Exibe uma lista de produtos disponíveis no estoque, incluindo o ID, nome e preço de cada item.
 Adicionar Produtos ao Carrinho:
