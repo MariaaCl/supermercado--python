@@ -16,25 +16,24 @@ Possui um conjunto de produtos pré-definidos no estoque, cada um com um identif
 
 **Sair do Sistema:** Opção para encerrar o programa.
 
-**FUNCIONALIDADES**
+**FUNCIONALIDADES:**
 
 **Visualizar Estoque:**
-
 Exibe uma lista de produtos disponíveis no estoque, incluindo o ID, nome e preço de cada item.
-Adicionar Produtos ao Carrinho:
 
+**Adicionar Produtos ao Carrinho**:
 O usuário pode adicionar produtos ao carrinho de compras, escolhendo o ID do produto e a quantidade.
 O sistema valida se o produto existe no estoque e informa ao usuário caso o produto não seja encontrado.
-Exibir Carrinho de Compras:
 
+**Exibir Carrinho de Compras:**
 Permite ao usuário visualizar os itens adicionados ao carrinho, incluindo a quantidade e o preço total de cada item.
 Se o carrinho estiver vazio, o sistema avisa ao usuário.
-Calcular o Total da Compra:
 
+**Calcular o Total da Compra:**
 O sistema calcula automaticamente o total da compra com base nos produtos e quantidades no carrinho.
-Finalizar Compra:
 
+**Finalizar Compra:**
 Ao finalizar a compra, o total da compra é mostrado ao usuário e o programa exibe uma mensagem de agradecimento.
-Sair:
 
+**Sair:**
 O usuário pode sair do programa a qualquer momento
