@@ -1,4 +1,4 @@
-Supermercado Simples:
+Supermercado Simples
 Este é um sistema simples de supermercado desenvolvido em Python. O objetivo é gerenciar o estoque de produtos, adicionar itens ao carrinho de compras, calcular o total da compra e realizar o processo de finalização da compra de maneira interativa.
 
 Características
@@ -28,4 +28,4 @@ Finalizar Compra:
 Ao finalizar a compra, o total da compra é mostrado ao usuário e o programa exibe uma mensagem de agradecimento.
 Sair:
 
-O usuário pode sair do programa a qualquer momento.
+O usuário pode sair do programa a qualquer momento
